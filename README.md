@@ -15,6 +15,3 @@ This project requires a computer and internet.
                 
 ## Hello 
 My name is Yue Ruan.
-
-
-Now I make a change in the cloned folder on my desktop and then pull it in the cloud. All of this using the Github desktop app.
